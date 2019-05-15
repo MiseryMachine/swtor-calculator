@@ -1,0 +1,7 @@
+io:
+  rjs:
+    swtorcalculator:
+      swtorVersion: 5.6
+mongodb:
+  url: localhost
+  name: embeded_db

@@ -1,0 +1,215 @@
+{
+  "name": "Lightning",
+  "nameUrl": "",
+  "role": "Damage",
+  "roleUrl": "",
+  "description": "Of all the dark arts of the Sith, little can match the spectacle and devastation of Force lightning. Summoning intense discharges of pure Force energy, the Lightning Sorcerer overwhelms enemies with punishing damage from a distance, leaving them shaken and vulnerable--if not dead.",
+  "resourceType": "Force",
+  "disciplinePath": [
+    {
+      "name": "Chain Lightning",
+      "url": "/5.6/inquisitor/sorcerer/lightning/chain-lightning.png",
+      "description": "",
+      "type": "active",
+      "level": 10,
+      "activation": "2.5s",
+      "resource": "50",
+      "cooldown": "6s",
+      "range": "30m"
+    },
+    {
+      "name": "Lightning Storm",
+      "url": "/5.6/inquisitor/sorcerer/lightning/lightning-storm.png",
+      "description": "",
+      "type": "passive",
+      "level": 12
+    },
+    {
+      "name": "Placeholder",
+      "url": "/5.6/utility-locked.png",
+      "description": "",
+      "type": "passive",
+      "level": 14
+    },
+    {
+      "name": "Storm Brewing",
+      "url": "/5.6/inquisitor/sorcerer/lightning/storm-brewing.png",
+      "description": "",
+      "type": "passive",
+      "level": 16
+    },
+    {
+      "name": "Lightning Effusion",
+      "url": "/5.6/inquisitor/sorcerer/lightning/lightning-effusion.png",
+      "description": "",
+      "type": "passive",
+      "level": 20
+    },
+    {
+      "name": "Placeholder",
+      "url": "/5.6/utility-locked.png",
+      "description": "",
+      "type": "passive",
+      "level": 22
+    },
+    {
+      "name": "Subversion",
+      "url": "/5.6/inquisitor/sorcerer/lightning/subversion.png",
+      "description": "",
+      "type": "passive",
+      "level": 24
+    },
+    {
+      "name": "Thundering Blast",
+      "url": "/5.6/inquisitor/sorcerer/lightning/thundering-blast.png",
+      "description": "",
+      "type": "active",
+      "level": 26,
+      "activation": "1.5s",
+      "resource": "50",
+      "cooldown": "9s",
+      "range": "30m"
+    },
+    {
+      "name": "Forked Darkness",
+      "url": "/5.6/inquisitor/sorcerer/lightning/forked-darkness.png",
+      "description": "",
+      "type": "passive",
+      "level": 28
+    },
+    {
+      "name": "Placeholder",
+      "url": "/5.6/utility-locked.png",
+      "description": "",
+      "type": "passive",
+      "level": 30
+    },
+    {
+      "name": "Lightning Swarm",
+      "url": "/5.6/inquisitor/sorcerer/lightning/lightning-swarm.png",
+      "description": "",
+      "type": "passive",
+      "level": 32
+    },
+    {
+      "name": "Convection",
+      "url": "/5.6/inquisitor/sorcerer/lightning/convection.png",
+      "description": "",
+      "type": "passive",
+      "level": 36
+    },
+    {
+      "name": "Placeholder",
+      "url": "/5.6/utility-locked.png",
+      "description": "",
+      "type": "passive",
+      "level": 38
+    },
+    {
+      "name": "Forked Lightning",
+      "url": "/5.6/inquisitor/sorcerer/lightning/forked-lightning.png",
+      "description": "",
+      "type": "passive",
+      "level": 40
+    },
+    {
+      "name": "Lightning Flash",
+      "url": "/5.6/inquisitor/sorcerer/lightning/lightning-flash.png",
+      "description": "",
+      "type": "active",
+      "level": 42,
+      "activation": "Instant",
+      "resource": "50",
+      "cooldown": "15s",
+      "range": "30m"
+    },
+    {
+      "name": "Focal Lightning",
+      "url": "/5.6/inquisitor/sorcerer/lightning/focal-lightning.png",
+      "description": "",
+      "type": "passive",
+      "level": 44
+    },
+    {
+      "name": "Placeholder",
+      "url": "/5.6/utility-locked.png",
+      "description": "",
+      "type": "passive",
+      "level": 46
+    },
+    {
+      "name": "Chaos Nexus",
+      "url": "/5.6/inquisitor/sorcerer/lightning/chaos-nexus.png",
+      "description": "",
+      "type": "passive",
+      "level": 48
+    },
+    {
+      "name": "Reverberating Force",
+      "url": "/5.6/inquisitor/sorcerer/lightning/reverberating-force.png",
+      "description": "",
+      "type": "passive",
+      "level": 52
+    },
+    {
+      "name": "Placeholder",
+      "url": "/5.6/utility-locked.png",
+      "description": "",
+      "type": "passive",
+      "level": 54
+    },
+    {
+      "name": "Conduction",
+      "url": "/5.6/inquisitor/sorcerer/lightning/conduction.png",
+      "description": "",
+      "type": "passive",
+      "level": 56
+    },
+    {
+      "name": "Lightning Flash",
+      "url": "/5.6/inquisitor/sorcerer/lightning/lightning-flash.png",
+      "description": "",
+      "type": "active",
+      "level": 58,
+      "activation": "Instant",
+      "resource": "50",
+      "cooldown": "15s",
+      "range": "30m"
+    },
+    {
+      "name": "Charged Reaction",
+      "url": "/5.6/inquisitor/sorcerer/lightning/charged-reaction.png",
+      "description": "",
+      "type": "passive",
+      "level": 60
+    },
+    {
+      "name": "Placeholder",
+      "url": "/5.6/utility-locked.png",
+      "description": "",
+      "type": "passive",
+      "level": 62
+    },
+    {
+      "name": "Fulgurous Fortification",
+      "url": "/5.6/inquisitor/sorcerer/lightning/fulgurous-fortification.jpg",
+      "description": "",
+      "type": "passive",
+      "level": 64
+    },
+    {
+      "name": "Convulsing Currents",
+      "url": "/5.6/inquisitor/sorcerer/lightning/convulsing-currents.png",
+      "description": "",
+      "type": "passive",
+      "level": 68
+    },
+    {
+      "name": "Placeholder",
+      "url": "/5.6/utility-locked.png",
+      "description": "",
+      "type": "passive",
+      "level": 70
+    }
+  ]
+}

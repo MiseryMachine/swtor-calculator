@@ -1,0 +1,173 @@
+{
+  "name": "Sith Sorcerer",
+  "utilities": [
+    {
+      "name": "Skillful",
+      "level": 12,
+      "talents": [
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "name": "Masterful",
+      "level": 30,
+      "talents": [
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "name": "Heroic",
+      "level": 46,
+      "talents": [
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        }
+      ]
+    },
+    {
+      "name": "Legendary",
+      "level": 62,
+      "talents": [
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        },
+        {
+          "name": "Subversion",
+          "url": "/5.6/inquisitor/sorcerer/",
+          "description": "",
+          "type": "passive"
+        }
+      ]
+    }
+  ]
+}
